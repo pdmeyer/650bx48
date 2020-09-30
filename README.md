@@ -1,2 +1,3 @@
 # 650bx48
-images modifying images 
+
+a pixel rearranger for max / msp / jitter
